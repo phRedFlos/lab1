@@ -1,0 +1,7 @@
+../Middlewares/TraceRecorder/trcEventBuffer.c:15:13:xTraceEventBufferInitialize	0	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:91:13:xTraceEventBufferAlloc	40	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:256:13:xTraceEventBufferAllocCommit	4	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:272:13:xTraceEventBufferPush	40	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:395:13:xTraceEventBufferTransferAll	0	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:463:13:xTraceEventBufferTransferChunk	4	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:531:13:xTraceEventBufferClear	0	static

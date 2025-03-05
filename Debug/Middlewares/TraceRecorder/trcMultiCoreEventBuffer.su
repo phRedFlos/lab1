@@ -1,0 +1,4 @@
+../Middlewares/TraceRecorder/trcMultiCoreEventBuffer.c:15:13:xTraceMultiCoreEventBufferInitialize	8	static
+../Middlewares/TraceRecorder/trcMultiCoreEventBuffer.c:89:13:xTraceMultiCoreEventBufferTransferAll	24	static
+../Middlewares/TraceRecorder/trcMultiCoreEventBuffer.c:117:13:xTraceMultiCoreEventBufferTransferChunk	24	static
+../Middlewares/TraceRecorder/trcMultiCoreEventBuffer.c:144:13:xTraceMultiCoreEventBufferClear	8	static

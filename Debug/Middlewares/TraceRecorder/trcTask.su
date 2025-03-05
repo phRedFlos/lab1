@@ -1,0 +1,4 @@
+../Middlewares/TraceRecorder/trcTask.c:27:13:xTraceTaskInitialize	4	static
+../Middlewares/TraceRecorder/trcTask.c:46:13:xTraceTaskSetPriority	8	static
+../Middlewares/TraceRecorder/trcTask.c:61:13:xTraceTaskSetPriorityWithoutHandle	24	static
+../Middlewares/TraceRecorder/trcTask.c:79:13:xTraceTaskSwitch	16	static,ignoring_inline_asm

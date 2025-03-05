@@ -1,0 +1,14 @@
+../Core/Src/main.c:587:6:StartButtonTask	16	static
+../Core/Src/main.c:613:6:StartDisplayTask	120	static
+../Core/Src/main.c:197:6:SystemClock_Config	112	static,ignoring_inline_asm
+../Core/Src/main.c:96:5:main	160	static,ignoring_inline_asm
+../Core/Src/main.c:420:6:HAL_GPIO_EXTI_Callback	0	static
+../Core/Src/main.c:428:6:microDelay	0	static
+../Core/Src/main.c:434:9:DHT22_Start	40	static
+../Core/Src/main.c:465:9:DHT22_Read	32	static
+../Core/Src/main.c:538:6:StartSensorTask	48	static
+../Core/Src/main.c:492:7:calculateAverage	0	static
+../Core/Src/main.c:502:7:findMax	0	static
+../Core/Src/main.c:515:7:findMin	0	static
+../Core/Src/main.c:698:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:715:6:Error_Handler	0	static,ignoring_inline_asm

@@ -1,0 +1,2 @@
+../Middlewares/TraceRecorder/trcString.c:16:13:xTraceStringRegister	5
+../Middlewares/TraceRecorder/trcString.c:48:21:xTraceRegisterString	1
